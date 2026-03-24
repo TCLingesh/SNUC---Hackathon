@@ -1,5 +1,5 @@
 {
-  "name": "node-express-api-ts",
+  "name": "express-api-ts",
   "description": "Simple api sample in Node",
   "version": "1.0.0",
   "private": true,
@@ -19,5 +19,15 @@
     "@types/node": "^20.12.12",
     "nodemon": "^3.1.0",
     "typescript": "^5.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayakavin/SNUC---Hackathon.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mayakavin/SNUC---Hackathon/issues"
+  },
+  "homepage": "https://github.com/Mayakavin/SNUC---Hackathon#readme"
 }
